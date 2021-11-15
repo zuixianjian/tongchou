@@ -11,7 +11,7 @@
  Target Server Version : 50731
  File Encoding         : 65001
 
- Date: 15/11/2021 20:15:23
+ Date: 15/11/2021 22:53:36
 */
 
 SET NAMES utf8mb4;
@@ -457,6 +457,7 @@ INSERT INTO `b_check_code` VALUES ('1459034340628500480', 'admin', '2021-11-11 2
 INSERT INTO `b_check_code` VALUES ('1459035933528690688', 'admin', '2021-11-11 23:50:48.800000', 0, 'admin', '2021-11-11 23:50:48.800000', 'JAKSZH', '2021-11-11 23:50:48.787000');
 INSERT INTO `b_check_code` VALUES ('1459037223038095360', 'admin', '2021-11-11 23:55:56.234000', 0, 'admin', '2021-11-11 23:55:56.234000', 'HATNSM', '2021-11-11 23:55:56.230000');
 INSERT INTO `b_check_code` VALUES ('1459454536363151360', 'admin', '2021-11-13 03:34:12.346000', 0, 'admin', '2021-11-13 03:34:12.346000', 'XPFIBP', '2021-11-13 03:34:11.504000');
+INSERT INTO `b_check_code` VALUES ('1460236045890228224', 'admin', '2021-11-15 07:19:37.997000', 0, 'admin', '2021-11-15 07:19:37.997000', 'JCTGGN', '2021-11-15 07:19:37.871000');
 
 -- ----------------------------
 -- Table structure for b_client_info
@@ -1384,6 +1385,7 @@ CREATE TABLE `t_log`  (
 -- ----------------------------
 -- Records of t_log
 -- ----------------------------
+INSERT INTO `t_log` VALUES (1460236096460951552, NULL, '2021-11-15 07:19:50', 0, NULL, '2021-11-15 07:19:50', 102, '127.0.0.1', '未知', '登录系统', '{\"password\":\"你是看不见我的\",\"code\":\"SWVI\",\"saveLogin\":\"true\",\"captchaId\":\"83bf8a278eef4ff99bd2751bb388bfd9\",\"username\":\"admin\"}', 'POST', '/xboot/login', 'admin', 1, '', '', '');
 
 -- ----------------------------
 -- Table structure for t_permission
