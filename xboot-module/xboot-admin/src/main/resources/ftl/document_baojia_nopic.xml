@@ -1,0 +1,2250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+            xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+            xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+            xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+            xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+            xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+            xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+            xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+            xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+            xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+            xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+            xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+            xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+            xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+            xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+            xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+            mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+    <w:body>
+        <w:p w14:paraId="105FB8FD" w14:textId="77777777" w:rsidR="007604AE" w:rsidRDefault="007604AE"/>
+        <w:p w14:paraId="2492FD7A" w14:textId="7F4B8CA6" w:rsidR="00FF75B4" w:rsidRPr="00862282"
+             w:rsidRDefault="007604AE" w:rsidP="00862282">
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00862282">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="28"/>
+                    <w:szCs w:val="28"/>
+                </w:rPr>
+                <w:t>机动车安全统筹单（电子单）</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="10F3B149" w14:textId="7D3CD88F" w:rsidR="007604AE" w:rsidRPr="005B07EB"
+             w:rsidRDefault="007604AE" w:rsidP="005B07EB">
+            <w:pPr>
+                <w:pStyle w:val="HTML"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                    <w:color w:val="080808"/>
+                    <w:sz w:val="20"/>
+                    <w:szCs w:val="20"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00862282">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>统筹单生成时间：</w:t>
+            </w:r>
+            <w:r w:rsidR="00953D74">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>${order.createTime}</w:t>
+            </w:r>
+            <w:r w:rsidR="00953D74">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t></w:t>
+            </w:r>
+            <w:r w:rsidR="00953D74">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t></w:t>
+            </w:r>
+            <w:r w:rsidR="00953D74">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t></w:t>
+            </w:r>
+            <w:r w:rsidR="00953D74">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t></w:t>
+            </w:r>
+            <w:r w:rsidRPr="00862282">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">   </w:t>
+            </w:r>
+            <w:r w:rsidR="00862282">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                         </w:t>
+            </w:r>
+            <w:r w:rsidR="00953D74">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">               </w:t>
+            </w:r>
+            <w:r w:rsidR="00862282">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00862282">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>统筹单号：</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:color w:val="FF0000"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>ZTTC</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:color w:val="FF0000"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>${order.id}</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2BA35AB1" w14:textId="4B4BD3B5" w:rsidR="007604AE" w:rsidRPr="00862282"
+             w:rsidRDefault="007604AE" w:rsidP="00862282">
+            <w:pPr>
+                <w:jc w:val="left"/>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00862282">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>鉴于参统人已向我公司提出</w:t>
+            </w:r>
+            <w:r w:rsidR="00862282" w:rsidRPr="00862282">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>参统申请，并同意按照约定交付统筹费，统筹人依照承统种类及其对应的条款和特别约定，承担安全统筹责任。经充分协商，现达成如下一致协议：</w:t>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="a3"/>
+                <w:tblW w:w="10415" w:type="dxa"/>
+                <w:jc w:val="center"/>
+                <w:tblBorders>
+                    <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                </w:tblBorders>
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0"
+                           w:noVBand="1"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="421"/>
+                <w:gridCol w:w="851"/>
+                <w:gridCol w:w="141"/>
+                <w:gridCol w:w="1417"/>
+                <w:gridCol w:w="386"/>
+                <w:gridCol w:w="181"/>
+                <w:gridCol w:w="633"/>
+                <w:gridCol w:w="785"/>
+                <w:gridCol w:w="992"/>
+                <w:gridCol w:w="640"/>
+                <w:gridCol w:w="342"/>
+                <w:gridCol w:w="826"/>
+                <w:gridCol w:w="460"/>
+                <w:gridCol w:w="356"/>
+                <w:gridCol w:w="1984"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="2671BB74" w14:textId="77777777"
+                  w:rsidTr="001639B9">
+                <w:trPr>
+                    <w:trHeight w:val="223"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1272" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4336390E" w14:textId="0F177238" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>被统筹人</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3543" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1237963F" w14:textId="4D4A0503" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.clientName}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2800" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7F1D0896" w14:textId="77777777" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>身份证号/组织机构代码</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2800" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7C6AC0C2" w14:textId="3B5D2339" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.clientCardNo}</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="46839A76" w14:textId="77777777"
+                  w:rsidTr="00870852">
+                <w:trPr>
+                    <w:trHeight w:val="334"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1272" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:vMerge w:val="restart"/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="225F4DD6" w14:textId="77777777" w:rsidR="00870852" w:rsidRDefault="00585FF0"
+                         w:rsidP="00870852">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>车辆</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="6DE3DDC0" w14:textId="77777777" w:rsidR="00870852" w:rsidRDefault="00585FF0"
+                         w:rsidP="00870852">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>详细</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="7431170C" w14:textId="3D39CFC0" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00870852">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>信息</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1558" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7B06F903" w14:textId="1A522040" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>车牌号码</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1985" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1A4E1342" w14:textId="455A8304" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="005F3AFC" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.carNoHead}${order.carNo}</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1974" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="40459408" w14:textId="724C3565" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>厂牌型号</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3626" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="484CD491" w14:textId="28D647F6" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.carTypeName}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="5151A284" w14:textId="77777777"
+                  w:rsidTr="00870852">
+                <w:trPr>
+                    <w:trHeight w:val="334"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1272" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:vMerge/>
+                    </w:tcPr>
+                    <w:p w14:paraId="41C98E43" w14:textId="2499C3A0" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1558" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="620D0A4B" w14:textId="77777777" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>发动机号</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1985" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6C6381AB" w14:textId="2C179460" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.motorNo}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1974" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="40727B73" w14:textId="443D01EF" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>V</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>IN</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>码（车架号）</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3626" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="02F6CE36" w14:textId="500F7572" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.carframeNo}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="02A6DDB3" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="301"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1272" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:vMerge/>
+                    </w:tcPr>
+                    <w:p w14:paraId="43D484F0" w14:textId="707AA013" w:rsidR="00862282" w:rsidRPr="00862282"
+                         w:rsidRDefault="00862282" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1558" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7FFFB0F6" w14:textId="1DDA046B" w:rsidR="00862282" w:rsidRPr="00862282"
+                         w:rsidRDefault="00862282" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>车辆种类</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1985" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4AFCB3A5" w14:textId="0BB28FB0" w:rsidR="00862282" w:rsidRPr="00862282"
+                         w:rsidRDefault="00862282" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.carTypeA}${order.carTypeB}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1632" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="614073E8" w14:textId="77777777" w:rsidR="00862282" w:rsidRPr="00862282"
+                         w:rsidRDefault="00862282" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>使用性质</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1984" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5F7BF52D" w14:textId="77777777" w:rsidR="00862282" w:rsidRPr="00862282"
+                         w:rsidRDefault="00862282" w:rsidP="00862282">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.useType}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1984" w:type="dxa"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="072A73BD" w14:textId="4A19EBE8" w:rsidR="00862282" w:rsidRPr="00862282"
+                         w:rsidRDefault="00862282" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">核定载客 </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> ${order.siteCount}   </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>人</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00870852" w:rsidRPr="00862282" w14:paraId="5FF0512A" w14:textId="77777777"
+                  w:rsidTr="00870852">
+                <w:trPr>
+                    <w:trHeight w:val="305"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1272" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:vMerge/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5693CCCE" w14:textId="19032E36" w:rsidR="00870852" w:rsidRPr="00862282"
+                         w:rsidRDefault="00870852" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2758" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="08F17E7F" w14:textId="77777777" w:rsidR="00870852" w:rsidRPr="00862282"
+                         w:rsidRDefault="00870852" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">核定载重 </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> ${order.loadCapacity} KG </w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2759" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="446CE919" w14:textId="790326B9" w:rsidR="00870852" w:rsidRPr="00862282"
+                         w:rsidRDefault="00870852" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">排量/功率 </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> ${order.displacement} L/KW</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3626" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2137421F" w14:textId="12C62092" w:rsidR="00870852" w:rsidRPr="00862282"
+                         w:rsidRDefault="00870852" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">已使用年限 </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">    ${order.useYear}    </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>年</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="74B0BCCF" w14:textId="77777777"
+                  w:rsidTr="00870852">
+                <w:trPr>
+                    <w:trHeight w:val="334"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1272" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:vMerge/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2166910D" w14:textId="0CEB1C58" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1944" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0C87C092" w14:textId="53DB6308" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>初次登记日期</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1599" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="76D75C90" w14:textId="6874A72D" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.firstLogDate}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1974" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3F06ED09" w14:textId="019AAF5C" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>行驶区域</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3626" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="07C03B54" w14:textId="76CA56D9" w:rsidR="00585FF0" w:rsidRPr="00862282"
+                         w:rsidRDefault="00585FF0" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>中国境内（港澳台除外）</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="36424F7D" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="359"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3397" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="14D14235" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>统筹种类</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2410" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3AE5AD0B" w14:textId="7FC4A614" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>不计免责</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2268" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="182C44E8" w14:textId="560F31C8" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>统筹金额/责任限额</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2340" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="658EE70A" w14:textId="2CA8D70E" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>统筹费小计（元）</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <#list orderDetails as item>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="57ACCC16" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="334"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3397" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="296D7999" w14:textId="2362A156" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${item.feeType}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2410" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="67DEAB8F" w14:textId="150F2089" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${item.deductibleFee}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2268" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="64688A01" w14:textId="67665086" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${item.insuranceMoney}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2340" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="19832846" w14:textId="71FAA10D" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${item.actualFee}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            </#list>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="132A35A0" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="70"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3397" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1EF08E1D" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2410" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0D88B6B2" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2268" w:type="dxa"/>
+                        <w:gridSpan w:val="4"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="50D57B11" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2340" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="28DF220E" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="009A3DA6" w:rsidRPr="00862282" w14:paraId="0C9CF77C" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="334"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="10415" w:type="dxa"/>
+                        <w:gridSpan w:val="15"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="4EC23CA2" w14:textId="1ADE19F0" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>统筹费合计（人民币大写）：</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.totalFeeBig}</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">                           （￥：RMB</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:spacing w:val="-25"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.totalFee}</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:tab/>
+                            <w:t>元）</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="009A3DA6" w:rsidRPr="00862282" w14:paraId="12249DFA" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="334"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="10415" w:type="dxa"/>
+                        <w:gridSpan w:val="15"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6CA1B188" w14:textId="631F05A9" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">统筹期限自 </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">${order.startDate} </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">始至 </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> ${order.endDate}  </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>止</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="009A3DA6" w:rsidRPr="00862282" w14:paraId="00758C12" w14:textId="77777777"
+                  w:rsidTr="00870852">
+                <w:trPr>
+                    <w:trHeight w:val="2073"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="421" w:type="dxa"/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1EF86C8E" w14:textId="77777777" w:rsidR="00025067" w:rsidRDefault="009A3DA6"
+                         w:rsidP="00025067">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>特</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="4EBE5F0E" w14:textId="77777777" w:rsidR="00025067" w:rsidRDefault="009A3DA6"
+                         w:rsidP="00025067">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>别</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="6BD78C38" w14:textId="77777777" w:rsidR="00025067" w:rsidRDefault="009A3DA6"
+                         w:rsidP="00025067">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>约</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="149140BC" w14:textId="78518E93" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>定</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9994" w:type="dxa"/>
+                        <w:gridSpan w:val="14"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="18E76760" w14:textId="1CE92B4F" w:rsidR="00870852" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>${order.orderAgree}</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="5255EAD1" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="334"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1413" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="320AB3EF" w14:textId="77777777" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>争议解决方式</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9002" w:type="dxa"/>
+                        <w:gridSpan w:val="12"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5011B4E7" w14:textId="6ED9BBE8" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>诉讼</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="009A3DA6" w:rsidRPr="00862282" w14:paraId="555B0F25" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="2473"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="421" w:type="dxa"/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="14E87686" w14:textId="13711E8A" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>重要提示</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9994" w:type="dxa"/>
+                        <w:gridSpan w:val="14"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1C212B30" w14:textId="3F829D77" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:pStyle w:val="a8"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:ind w:left="357" w:firstLineChars="0" w:hanging="357"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>本统筹合同由统筹条款、参统提示、统筹单、统筹批单和特别约定组成。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="08963839" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:pStyle w:val="a8"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:ind w:left="357" w:firstLineChars="0" w:hanging="357"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>本统筹单生效后，则视被统筹人已完全理解并接受机动车综合统筹条款，同意以此作为订立统筹合同的依据。</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>统筹人已明确说明免除统筹人责任条款的内容及法律后果。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="4908B5EC" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:pStyle w:val="a8"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:ind w:left="357" w:firstLineChars="0" w:hanging="357"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>收到本统筹单、统筹种类对应的统筹条款后，请立即核对，如有不符或疏漏，请及时通知甲方办理变更或补充手续。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="5C62209C" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:pStyle w:val="a8"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:ind w:left="357" w:firstLineChars="0" w:hanging="357"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>请详细阅读统筹种类对应的统筹条款，特别是责任免除和补偿处理。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="2B688D2F" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:pStyle w:val="a8"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:ind w:left="357" w:firstLineChars="0" w:hanging="357"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>被统筹机动车因改装、加装、改变使用性质等导致危险程度显著增加以及转卖、转让、赠送他人的，应通知统筹人并办理变更手续。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="10A2D8F6" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:pStyle w:val="a8"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:ind w:left="357" w:firstLineChars="0" w:hanging="357"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>被统筹人应当在交通事故发生后及时通知统筹人，若因延迟报案导致无法证明事故原因，统筹人有权拒绝受理。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="1F04895B" w14:textId="77777777" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:pStyle w:val="a8"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:ind w:left="357" w:firstLineChars="0" w:hanging="357"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>本产品为交通安全统筹服务，非保险产品。如有争议，由统筹人所在地人民法院裁定。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="33837638" w14:textId="788A93D9" w:rsidR="009A3DA6" w:rsidRPr="00862282"
+                         w:rsidRDefault="009A3DA6" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:pStyle w:val="a8"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:ind w:left="357" w:firstLineChars="0" w:hanging="357"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>被统筹人自缴纳统筹费之日起，即确认自愿加入</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00460A4B">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>统筹平台，成为平台会员，遵守平台规章管理制度。平台举办的各项安全会议、安全培训、安全指导等活动，被统筹人可自愿参加。</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00025067" w:rsidRPr="00862282" w14:paraId="5FE8295E" w14:textId="77777777"
+                  w:rsidTr="00025067">
+                <w:trPr>
+                    <w:trHeight w:val="1002"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="421" w:type="dxa"/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="43D3EB9C" w14:textId="45E08CD5" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067" w:rsidP="00E46E24">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>统筹人</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9994" w:type="dxa"/>
+                        <w:gridSpan w:val="14"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="44E2B924" w14:textId="77777777" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>公司名称:</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="48E57C3C" w14:textId="77777777" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>公司地址:</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="26DBE1B1" w14:textId="77777777" w:rsidR="00025067" w:rsidRPr="00862282"
+                         w:rsidRDefault="00025067" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>全国统一报案及服务电话:</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>400-123-4567</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w14:paraId="34028655" w14:textId="6E87CD80" w:rsidR="00025067" w:rsidRPr="00025067"
+                         w:rsidRDefault="00025067" w:rsidP="00025067">
+                        <w:pPr>
+                            <w:spacing w:line="240" w:lineRule="exact"/>
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00025067">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>邮政编码:</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00025067">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t></w:t>
+                        </w:r>
+                        <w:r w:rsidR="00870852">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">                </w:t>
+                        </w:r>
+                        <w:r w:rsidR="00870852" w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>签单日期:</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00870852" w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> ${order.createTime}        </w:t>
+                        </w:r>
+                        <w:r w:rsidR="00870852" w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia" w:hint="eastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>(统筹人盖章</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00870852" w:rsidRPr="00862282">
+                            <w:rPr>
+                                <w:rFonts w:asciiTheme="minorEastAsia" w:hAnsiTheme="minorEastAsia"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                            <w:t>)</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w14:paraId="560B0CAF" w14:textId="503FFCBF" w:rsidR="005110A4" w:rsidRPr="00870852"
+             w:rsidRDefault="00737A6D" w:rsidP="00737A6D">
+            <w:pPr>
+                <w:jc w:val="distribute"/>
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>审核：</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>${order.checkName} </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">     </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>制单</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>:</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">${order.createBy}    </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>出单机构</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>:</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00870852">
+                <w:rPr>
+                    <w:sz w:val="18"/>
+                    <w:szCs w:val="18"/>
+                </w:rPr>
+                <w:t>总部网点</w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="005110A4" w:rsidRPr="00870852" w:rsidSect="00862282">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1440" w:right="851" w:bottom="1440" w:left="851" w:header="851" w:footer="992"
+                     w:gutter="0"/>
+            <w:cols w:space="425"/>
+            <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

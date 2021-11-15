@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.exrick.xboot.your.mapper.DictDataMapper">
+    <select id="getByDictTypeAndDictValue" resultType="cn.exrick.xboot.your.entity.DictData">
+        SELECT
+            dicdata.*
+        FROM
+            t_dict dict
+            LEFT JOIN t_dict_data dicdata ON dict.id = dicdata.dict_id
+        WHERE
+            dict.type = #{dictType}
+            AND dict.del_flag=0
+            AND dicdata.del_flag=0
+            AND dicdata.value
+            = #{value}
+    </select>
+
+    <select id="getByDictTypeAndDictTitle" resultType="cn.exrick.xboot.your.entity.DictData">
+        SELECT
+            dicdata.*
+        FROM
+            t_dict dict
+            LEFT JOIN t_dict_data dicdata ON dict.id = dicdata.dict_id
+        WHERE
+            dict.type = #{dictType}
+            AND dict.del_flag=0
+            AND dicdata.del_flag=0
+            AND dicdata.title
+            = #{title}
+    </select>
+    <select id="getByDictType" resultType="cn.exrick.xboot.your.entity.DictData">
+          SELECT
+            dicdata.*
+        FROM
+            t_dict dict
+            LEFT JOIN t_dict_data dicdata ON dict.id = dicdata.dict_id
+        WHERE
+            dict.type = #{dictType}
+            AND dict.del_flag=0
+            AND dicdata.del_flag=0
+    </select>
+</mapper>

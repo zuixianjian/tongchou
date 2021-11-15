@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.exrick.xboot.your.mapper.OrderMapper">
+
+    <update id="validOrder">
+        update b_order set order_status="ORDER_STATUS_INVILADE" where  del_flag=0
+        and end_date &lt; now()
+        and order_status="ORDER_STATUS_FINISH"
+    </update>
+    <select id="queryOrder" resultType="cn.exrick.xboot.your.entity.Order">
+        select * from b_order
+        where
+        del_flag=0
+        <if test="id != null">
+            and id = #{id}
+        </if>
+        <if test="carNo != null">
+            and car_no = #{carNo}
+        </if>
+        <if test="carframeNo != null">
+            and carframe_no = #{carframeNo}
+        </if>
+        <if test="orderStatus != null">
+            and order_status = #{orderStatus}
+        </if>
+        <if test="orderType != null">
+            and order_type = #{orderType}
+        </if>
+        <if test="parentId != null">
+            and parent_id = #{parentId}
+        </if>
+    </select>
+    <select id="statisticOrder" resultType="cn.exrick.xboot.your.entity.resp.StatisticOrderItemResp">
+        SELECT
+        b.id AS orderId,
+        a.recieve_time as recieveTime,
+        b.start_date as startDate,
+        b.end_date as endDate,
+        a.bussiness_type as orderType,
+        b.department_id as departmentId,
+        c.title as departmentName,
+        b.create_by as createBy,
+        b.client_name as clientName,
+        b.car_no as carNo,
+        b.run_card_car_type as runCardCarType,
+        a.recieve_type as recieveType,
+        a.should_recieve as shouldRecieve,
+        a.should_clean_recieve as shouldCleanRecieve,
+        b.discount_rate as discountRate,
+        a.real_recieve as realRecieve,
+        a.recieve_man as recieveMan
+        FROM
+        b_order_pay_info a
+        LEFT JOIN b_order b ON a.bussiness_id = b.id
+        LEFT JOIN t_department c ON c.id = b.department_id
+        WHERE
+        a.del_flag=0 AND
+        b.del_flag=0 AND
+        a.recieve_status ='PAYINFO_STATUS_SUCCESS'
+        <if test="startDate != null">
+        AND a.recieve_time &gt; #{startDate}
+        </if>
+        <if test="endDate != null">
+        AND a.recieve_time &lt; #{endDate}
+        </if>
+        <if test="recieveType != null">
+        AND a.recieve_type = #{recieveType}
+        </if>
+        <if test="bussinessType != null">
+        AND a.bussiness_type = #{bussinessType}
+        </if>
+        <if test="departmentIds!= null and departmentIds.size>0">
+            AND b.department_id in
+            <foreach collection="departmentIds" item="item" index="index"
+                     open="(" separator="," close=")">#{item}
+            </foreach>
+        </if>
+    </select>
+    <select id="statisticOrderMoney" resultType="cn.exrick.xboot.your.entity.resp.StatisticOrderResp">
+        SELECT
+        sum(a.should_recieve) as shouldRecieveSum,
+        sum(a.should_clean_recieve) as shouldCleanRecieveSum,
+        sum(a.real_recieve) as realRecieveSum
+        FROM
+        b_order_pay_info a
+        LEFT JOIN b_order b ON a.bussiness_id = b.id
+        LEFT JOIN t_department c ON c.id = b.department_id
+        WHERE
+        a.del_flag=0 AND
+        b.del_flag=0 AND
+        a.recieve_status ='PAYINFO_STATUS_SUCCESS'
+        <if test="startDate != null">
+            AND a.recieve_time &gt; #{startDate}
+        </if>
+        <if test="endDate != null">
+            AND a.recieve_time &lt; #{endDate}
+        </if>
+        <if test="recieveType != null">
+            AND a.recieve_type = #{recieveType}
+        </if>
+        <if test="bussinessType != null">
+            AND a.bussiness_type = #{bussinessType}
+        </if>
+        <if test="departmentIds!= null and departmentIds.size>0">
+            AND b.department_id in
+            <foreach collection="departmentIds" item="item" index="index"
+                     open="(" separator="," close=")">#{item}
+            </foreach>
+        </if>
+    </select>
+    <select id="statisticBussiness" resultType="cn.exrick.xboot.your.entity.resp.StatisticBussinessItemResp">
+        SELECT
+        count( DISTINCT payinfo.bussiness_id ) carCount,
+        sum(if(payinfo.bussiness_type='ORDER_TYPE_COMMON'or payinfo.bussiness_type='ORDER_TYPE_EDIT',payinfo.should_recieve,0)   ) shouldRecieveTotal,
+        sum(if(payinfo.bussiness_type='ORDER_TYPE_COMMON'or payinfo.bussiness_type='ORDER_TYPE_EDIT',payinfo.should_clean_recieve,0) ) shouldCleanRecieveTotal,
+        sum(if(payinfo.bussiness_type='ORDER_TYPE_COMMON'or payinfo.bussiness_type='ORDER_TYPE_EDIT',payinfo   .real_recieve,0)    ) realRecieveTotal,
+        count( DISTINCT helperOrder.id ) accidentLogCount,
+        count( if(helperOrder.`status` = 'HELPORDER_STATUS_FINISH' , helperOrder.id, null) ) accidentFinishCount,
+        sum( payinfohelp.real_recieve ) damageTotalMoney
+        <choose>
+            <when test="null != statisticType and statisticType=='timeDay'">
+                ,DATE_FORMAT(payinfo.recieve_time,'%Y-%m-%d') as dateFlag
+            </when>
+            <when test="null != statisticType and statisticType=='timeMonth'">
+                ,DATE_FORMAT(payinfo.recieve_time,'%Y-%m') as dateFlag
+            </when>
+            <when test="null != statisticType and statisticType=='timeYear'">
+                ,DATE_FORMAT(payinfo.recieve_time,'%Y') as dateFlag
+            </when>
+            <when test="null != statisticType and statisticType=='departMent'">
+                ,depart.title as dateFlag
+            </when>
+            <otherwise>
+                ,DATE_FORMAT(payinfo.recieve_time,'%Y-%m-%d') as dateFlag
+            </otherwise>
+        </choose>
+        FROM b_order_pay_info payinfo
+        LEFT JOIN b_order  o ON o.id=payinfo.bussiness_id
+        LEFT JOIN t_department depart ON depart.id = o.department_id
+        LEFT JOIN b_helper_order helperOrder ON payinfo.bussiness_id=helperOrder.order_id
+        LEFT JOIN b_order_pay_info payinfohelp ON payinfohelp.bussiness_id=helperOrder.id
+        where
+        payinfo.del_flag=0 AND
+        o.del_flag=0 AND
+        payinfo.recieve_status ='PAYINFO_STATUS_SUCCESS'
+        <if test="recieveType != null">
+            AND payinfo.recieve_type = #{recieveType}
+        </if>
+        <if test="bussinessType != null">
+            AND payinfo.bussiness_type = #{bussinessType}
+        </if>
+        <if test="startDate != null">
+        AND payinfo.recieve_time &gt; #{startDate}
+        </if>
+        <if test="endDate != null">
+            AND payinfo.recieve_time &lt; #{endDate}
+        </if>
+        <if test="departmentIds!= null and departmentIds.size>0"  >
+            AND o.department_id in
+            <foreach collection="departmentIds" item="item" index="index"
+                     open="(" separator="," close=")">#{item}
+            </foreach>
+        </if>
+        <if test="statisticType != null">
+            GROUP BY dateFlag
+        </if>
+    </select>
+</mapper>

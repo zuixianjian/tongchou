@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.exrick.xboot.your.mapper.HelperOrderMapper">
+
+    <select id="getDiochaUserList" resultType="cn.exrick.xboot.core.entity.User">
+
+        SELECT
+        u.id,
+        u.nickname,
+        u.username,
+        u.mobile
+        FROM
+        t_user_role r
+        LEFT JOIN t_user u ON u.id = r.user_id
+        WHERE
+        r.role_id = #{roleId}
+        AND u.del_flag=0
+        AND u.`status`=0
+        <if test="departmentids!=null and departmentids!='' and departmentids.size()>0">
+            u.department_id in
+            <foreach collection="departmentids" item="item" index="index"
+                     open="(" separator="," close=")">#{item}
+            </foreach>
+        </if>
+    </select>
+</mapper>

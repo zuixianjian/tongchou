@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.exrick.xboot.your.mapper.LogMapper">
+
+    <select id="findByDataflagAndlogDescAndType" resultType="cn.exrick.xboot.core.entity.Log">
+
+        SELECT * FROM t_log WHERE data_flag LIKE CONCAT('%',#{dataFlag},'%') AND log_desc =#{desc} AND log_type=#{type} AND del_flag=0
+    </select>
+
+
+</mapper>
